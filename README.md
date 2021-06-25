@@ -7,5 +7,5 @@ BIO
     ⚙️ I use daily: c#, .js, .html, .css, .svg
     🌱 Learning all about Open Source
     📫 Reach me: psriram37@gmail.com
-    ⚡️ Fun fact: I'm a huge fan of Dota
-  
+
+Cheers (:
