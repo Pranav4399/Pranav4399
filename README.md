@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Sriram</h1>
 <h3 align="center">A frontend developer from India passionate about maps and the geospatial domain. Apart from work, I'm a huge DOTA buff and love reading books.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav4399&label=Profile%20views&color=0e75b6&style=flat" alt="pranav4399" /> </p>
-
 - 🔭 I’m currently working at **IIHS, Bengaluru**
 
 - 🌱 I’m currently learning **LeafletJS, Geoserver and GEE**
