@@ -2,11 +2,12 @@
 
 # Hello, I'm Pranav Sriram!
 
-#### Passionate about Coding for Good.
-
 **Frontend developer** from India with interests in **FOSS**,**GIS** and especially **Good Maps**.</br>
 Feel free to browse my repos. You can learn more about me from my website: [pranavsriram.dev](https://stephenajulu.com).
 
 Other than that, I love Video games, Books and will always be up for a game of Dota 2.
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/pranavsriram/) about **job-related** matters.
+
+
+#### Also, Believes Open source is the way forward.
