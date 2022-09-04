@@ -10,4 +10,4 @@ Other than that, I love Video games, Books and will always be up for a game of D
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/pranavsriram/) about **job-related** matters.
 
 
-#### Also, Believes Open source is the way forward.
+#### Also, believes in open source is the way forward.
