@@ -3,7 +3,7 @@
 # Hello, I'm Pranav Sriram!
 
 **Frontend developer** from India with interests in **FOSS**,**GIS** and especially **Good Maps**.</br>
-Feel free to browse my repos. You can learn more about me from my website: [pranavsriram.dev](https://stephenajulu.com).
+Feel free to browse my repos. You can learn more about me from my website: [pranavsriram.dev](https://pranavsriram.dev/).
 
 Other than that, I love Video games, Books and will always be up for a game of Dota 2.
 
